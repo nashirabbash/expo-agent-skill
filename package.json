@@ -1,0 +1,29 @@
+{
+  "name": "expo-agent-skill",
+  "version": "1.0.0",
+  "description": "Install expo-agent skill for AI agents (Claude Code, Antigravity) with offline SDK 56 documentation.",
+  "main": "bin/install.js",
+  "bin": {
+    "expo-agent-skill": "./bin/install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "skill",
+    "expo",
+    "react-native",
+    "claude",
+    "antigravity"
+  ],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "reference/",
+    "scripts/",
+    "bin/"
+  ]
+}
